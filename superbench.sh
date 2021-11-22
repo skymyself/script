@@ -178,6 +178,7 @@ print_speedtest() {
 	speed_test '27594' 'Guangzhou 5G CT'
 	speed_test '24447' 'Shanghai  5G CU'
 	speed_test '26678' 'Guangzhou 5G CU'
+	speed_test '31520' 'Zhongshan    CM'
 	speed_test '6611'  'Guangzhou    CM'
 	speed_test '15863' 'Nanning      CM'
 
