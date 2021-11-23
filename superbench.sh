@@ -179,7 +179,7 @@ print_speedtest() {
 	speed_test '24447' 'Shanghai  5G CU'
 	speed_test '26678' 'Guangzhou 5G CU'
 	speed_test '24337' 'Chengdu      CM'
-	speed_test '6611'  'Guangzhou    CM'
+        speed_test '4575'  'Chengdu-2    CM'
 	speed_test '15863' 'Nanning      CM'
 
 	rm -rf speedtest*
